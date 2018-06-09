@@ -1,0 +1,25 @@
+html, body {
+  background:url("https://images.unsplash.com/photo-1520438820514-ea74646a0f38?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ed35790c504cf121d6ea141f385c49ba&auto=format&fit=crop&w=1650&q=80");
+  height: 100%;
+  background-size: cover;
+}
+
+#logo img {
+    margin:0 auto !important;
+    padding-top:20px;
+}
+
+#intro p {
+    color: white;
+    text-align:center;
+    font-family: 'Karla', sans-serif;
+    font-size:1.8em;
+}
+
+#counter .countdown {
+    text-align:center;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size:3em;
+    margin:-15px 0 0;
+}
